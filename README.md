@@ -9,7 +9,7 @@ used to manage data stored in a relational database
 2) A database is a structured collection of data
 3) A DBMS is a software that we use to manage our databases
 
-##Getting Ready to Code
+*Getting Ready to Code*
 Windows
 
 *For Windows users, go to*
