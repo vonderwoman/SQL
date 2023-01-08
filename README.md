@@ -28,6 +28,7 @@ Depending on the database type that you use, the datatypes that you'll be workin
 - CHAR
 - VARCHAR
 - TEXT
+-FLOAT
 
 **Numerical Types: Used to store numbers**
 
