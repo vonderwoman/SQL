@@ -1,6 +1,6 @@
 #creating a database and naming companyHR
 CREATE DATABASE companyHR;
-USE companyHR;
+USE companyHR;;
 #creating co_employees table
 CREATE TABLE co_employees (
 id INT PRIMARY KEY AUTO_INCREMENT,
