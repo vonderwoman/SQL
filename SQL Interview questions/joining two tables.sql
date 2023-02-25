@@ -7,7 +7,7 @@ CREATE TABLE Person(
 PersonId INT PRIMARY KEY AUTO_INCREMENT,
 FirstName VARCHAR(255) NOT NULL,
 LastName VARCHAR(255) NOT NULL
-);
+););
 
 #creating Address table
 CREATE TABLE Address (
