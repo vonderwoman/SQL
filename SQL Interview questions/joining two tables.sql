@@ -1,6 +1,6 @@
 #creating a database and naming personalDetails
 CREATE DATABASE personalDetails;
-USE personalDetails;
+USE personalDetails;;
 #creating Person table
 #PersonId is the primary key column for this table
 CREATE TABLE Person(
