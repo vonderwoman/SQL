@@ -41,3 +41,5 @@ To query a database, follow these steps:
 
 Congratulations, you've successfully set up SQL on your machine! You can now begin creating and querying databases to manage your data. If you have any questions or run into issues, don't hesitate to consult the documentation for your DBMS or client, or seek help from the SQL community. Happy querying! 😊
 
+## License
+MIT
