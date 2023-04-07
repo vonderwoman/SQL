@@ -143,7 +143,7 @@ SELECT * FROM employees WHERE (years_in_company > 5 OR salary >
 #more than 5 years in the company or have salaries above 5000, we can write:
 
 
-###.........................................
+###.........................................##
 #writing subqueries
 #Subqueries are commonly used to filter the results of one table based on the results of a query on another table.
 #For instance, in our example, suppose we want to select the names of all
@@ -231,7 +231,7 @@ SELECT mentor_id FROM mentorships
 UNION ALL
 SELECT id FROM employees WHERE gender = 'F';
 
-################################################################################
+##################################################################################
 /***************VIEWS****************************/
 
 CREATE VIEW myView AS
